@@ -1,0 +1,73 @@
+{
+  "reference_hardware": {
+    "name": "Razer Viper 8KHz",
+    "dpi": 16000,
+    "polling_rate_hz": 8000,
+    "note": "paper reference; models were trained at this range"
+  },
+  "profiles": [
+    {
+      "profile": "Custom",
+      "key": "custom",
+      "dpi": 8000,
+      "polling_rate_hz": 1000,
+      "note": "Override dpi/polling via CLI args"
+    },
+    {
+      "profile": "HyperX Pulsefire Haste",
+      "key": "hyperx_pulsefire",
+      "dpi": 16000,
+      "polling_rate_hz": 1000,
+      "note": "Up to 16k DPI, still 1kHz polling"
+    },
+    {
+      "profile": "Logitech G304/G305",
+      "key": "logitech_g304",
+      "dpi": 12000,
+      "polling_rate_hz": 1000,
+      "note": "Best-selling Logitech in Brazil"
+    },
+    {
+      "profile": "Logitech G502 HERO",
+      "key": "logitech_g502",
+      "dpi": 25600,
+      "polling_rate_hz": 1000,
+      "note": "Used in the paper as the 1kHz reference"
+    },
+    {
+      "profile": "Pichau P701",
+      "key": "pichau_p701",
+      "dpi": 6400,
+      "polling_rate_hz": 1000,
+      "note": "House-brand gaming mouse"
+    },
+    {
+      "profile": "Razer Viper 8KHz",
+      "key": "razer_viper_8k",
+      "dpi": 20000,
+      "polling_rate_hz": 8000,
+      "note": "Paper reference hardware"
+    },
+    {
+      "profile": "Redragon Cobra",
+      "key": "redragon_cobra",
+      "dpi": 10000,
+      "polling_rate_hz": 1000,
+      "note": "Max Colombian variant 12.4k; defaults ship at 10k"
+    },
+    {
+      "profile": "Redragon M711 Cobra",
+      "key": "redragon_m711",
+      "dpi": 7200,
+      "polling_rate_hz": 1000,
+      "note": "Common mid-tier Redragon gaming mouse"
+    },
+    {
+      "profile": "Redragon M808 Storm",
+      "key": "redragon_m808",
+      "dpi": 12400,
+      "polling_rate_hz": 1000,
+      "note": "Top-tier Redragon polling is still 1kHz"
+    }
+  ]
+}

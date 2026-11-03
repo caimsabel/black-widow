@@ -1,0 +1,7 @@
+# Caminho leve de coleta/extracao (permite OUVIR o mouse sem a stack ML)
+# Instale com:  pip install -r requirements.txt
+#
+# Para a stack COMPLETA (treinamento/modelos/wiener) use o conda:
+#   conda env create -f environment.yml
+numpy>=1.24
+scipy>=1.11
