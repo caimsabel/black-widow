@@ -1,4 +1,7 @@
+
 # 🕷️ BLACK WIDOW — iniciador do Mic-E-Mouse
+
+todos os créditos ao projeto inicial: https://github.com/AICPS/Mic-E-Mouse
 
 <p align="center">
   <img src="image_89e07fec.jpg" alt="Black Widow" width="720">
